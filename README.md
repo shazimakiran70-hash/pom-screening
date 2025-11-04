@@ -30,7 +30,9 @@ The software is intended for researchers in **inorganic/organic hybrid materials
 - Example dataset included for demonstration
 - GitHub Actions CI ensures reproducibility and code integrity
 
----
+---citation
+Shazima Kiran. (2025). HybridCatPredictor: A Data-Driven Framework for POM-Based Hybrid Photocatalysts. GitHub Repository. https://github.com/YOUR_USERNAME/pom-screening
+
 
 ## 🔹 Installation
 

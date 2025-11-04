@@ -1,0 +1,4 @@
+Compound,POM_type,Metal_Center,Ligand,Host,bandgap_eV,CBM_eV,POM_LUMO_eV,CO2_adsorption_eV,stability_index
+Anderson-Co@g-C3N4,Anderson,Co,none,g-C3N4,2.20,-0.50,-0.60,-0.18,0.82
+Keggin-W@UiO-66,Keggin,W,none,UiO-66,2.60,-0.70,-0.90,-0.25,0.90
+Dawson-W@BiVO4,Dawson,W,none,BiVO4,2.40,-0.40,-0.70,-0.22,0.85

@@ -73,5 +73,12 @@ pip install pandas scikit-learn numpy
 
 ---
 
+---
+
+## 🔑 Keywords
+Polyoxometalates (POMs) · Visible-light photocatalysis · CO₂ reduction ·
+Hybrid inorganic-organic materials · Data-driven materials discovery ·
+Machine learning in catalysis · Electronic structure prediction ·
+MOF-POM composites · Bandgap engineering · Energy materials design
 
 

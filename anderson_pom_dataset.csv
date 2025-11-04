@@ -1,0 +1,11 @@
+Compound,Metal_Center,Ligand,Semiconductor,Eg_exp(eV),CO2_Conversion_Efficiency(%),Reference_Notes
+Ni-Anderson-POM,Ni,Bipyridine,g-C3N4,2.6,25.3,"Ni–Anderson@g-C3N4 hybrid; enhanced charge transfer under visible light"
+Co-Anderson-POM,Co,Phenanthroline,TiO2,2.8,21.5,"Co–Anderson/TiO2 composite; stable photocatalyst for CO₂ → CO"
+Fe-Anderson-POM,Fe,Pyrazine,UiO-66,2.4,28.7,"Fe–Anderson/UiO-66 hybrid; increased CO₂ uptake and conversion"
+Mn-Anderson-POM,Mn,Imidazole,ZnIn2S4,2.2,33.9,"Mn–Anderson–ZnIn2S4 heterojunction; high CH₄ selectivity"
+V-Anderson-POM,V,Pyridine,CdS,2.3,31.4,"V–Anderson–CdS hybrid; improved charge separation and quantum yield"
+Cu-Anderson-POM,Cu,Terephthalate,MIL-101,2.5,29.2,"Cu–Anderson–MIL-101; MOF-based hybrid enhancing surface reactivity"
+Mo-Anderson-POM,Mo,Phenol,In2S3,2.1,36.8,"Mo–Anderson–In2S3 nanohybrid; visible-light active for CO₂→formate"
+Zn-Anderson-POM,Zn,Imidazole,g-C3N4,2.7,23.6,"Zn–Anderson/g-C3N4; moderate bandgap with good charge mobility"
+W-Anderson-POM,W,Bipyridine,ZnO,2.9,19.8,"W–Anderson–ZnO composite; stable under extended illumination"
+Cr-Anderson-POM,Cr,Pyrazine,Fe2O3,2.5,27.1,"Cr–Anderson–Fe2O3; synergistic oxygen evolution and CO₂ reduction"

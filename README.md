@@ -71,7 +71,16 @@ pip install pandas scikit-learn numpy
    - Contribution guide (`GIT_SETUP.md`)
    - README with full description + citation
 
----
+--- bibtex
+  @misc{shazima2025hybridcat,
+  author = {Kiran, Shazima},
+  title = {Hybrid Catalyst Predictor: Data-Driven Screening of Anderson-Type Polyoxometalate Hybrids for CO₂ Reduction},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/shazimakiran70-hash/pom-screening}}
+}
+
 
 ---
 
